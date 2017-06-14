@@ -1,4 +1,4 @@
-## Creating a new business using GUI
+# Creating a new business using GUI
 Given that you are already logged in, look for the rightmost top-nav menu item (with your avatar and username).
 
   * Click to dropdown.
