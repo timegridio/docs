@@ -1,6 +1,6 @@
 # User Manual
 
-## What is timegrid ?
+## What is timegrid?
 
 Timegrid is a web application that helps ***contractors*** and ***clients*** to find the perfect meeting time through **online appointments**.
 
@@ -8,7 +8,7 @@ Timegrid is a web application that helps ***contractors*** and ***clients*** to 
 
 You can [try the *beta* Demo](http://demo.timegrid.io/)
 
-### How does it work
+### How does it work?
 
 timegrid is a web application that mediates *contractors* and *clients* to let them handle *service reservations*.
 
